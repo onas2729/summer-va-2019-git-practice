@@ -5,7 +5,7 @@ public class firstClass {
 
                 System.out.println("Osman");
         
-        System.out.println("Osman & Nese");
+        System.out.println("Osman & Nese & Ali & Sami");
             
 
     
