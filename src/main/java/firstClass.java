@@ -7,7 +7,9 @@ public class firstClass {
         
         System.out.println("Osman & Nese & Ali & Sami");
 
-        System.out.println("Waqar");
+        System.out.println("wagar");
+
+        System.out.println("osman");
 
 
 
