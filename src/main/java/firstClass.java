@@ -1,9 +1,9 @@
 public class firstClass {
 
     public static void main(String[] args) {
-        System.out.println("OSman KArabacak");
+        System.out.println("Osman Karabacak");
 
-
+        System.out.println("Hello World");
         
 
 
