@@ -1,6 +1,6 @@
 public class SecondClass {
     public static void main(String[] args) {
-        System.out.println("Ali");
+        System.out.println("Al");
 
     }
 }
