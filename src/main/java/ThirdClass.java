@@ -3,5 +3,6 @@ public class ThirdClass {
         System.out.println("Ali");
         System.out.println("Omer Sami");
 
+
     }
 }

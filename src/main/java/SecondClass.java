@@ -4,6 +4,6 @@ public class SecondClass {
         System.out.println("Ali Karabacak");
         System.out.println("Omer Sami Karabacak");
         System.out.println("Nese Karabacak");
-        
-    }
+
+            }
 }
